@@ -5,9 +5,39 @@
 
 <p><strong>Maintained Lua tools</strong></p>
 
-[GitHub](https://github.com/luanvil)
+[GitHub](https://github.com/luanvil) • [LuaRocks](https://luarocks.org/modules/luanvil)
 
 </div>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[mote](https://github.com/luanvil/mote)**
+
+HTTP server with Express-style routing, middleware, JWT, CORS, rate limiting, and Server-Sent Events.
+
+</td>
+<td width="50%">
+
+**[luast](https://github.com/luanvil/luast)**
+
+Build standalone Lua executables with cross-compilation support. Powered by Zig.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[lnko](https://github.com/luanvil/lnko)**
+
+Simple stow-like dotfile linker with conflict handling and orphan cleanup.
+
+</td>
+</tr>
+</table>
 
 ## What is luanvil?
 

@@ -9,36 +9,10 @@
 
 </div>
 
-## Projects
+## About
 
-<table>
-<tr>
-<td width="50%">
+Lua is a small, fast, and embeddable scripting language. It powers everything from game engines to embedded systems. But compared to other languages, the ecosystem of maintained libraries is limited.
 
-**[mote](https://github.com/luanvil/mote)**
+luanvil tries to fill that gap. We build and maintain Lua tools that follow the language's philosophy: minimal, efficient, and easy to understand.
 
-HTTP server with Express-style routing, middleware, JWT, CORS, rate limiting, and Server-Sent Events.
-
-</td>
-<td width="50%">
-
-**[luast](https://github.com/luanvil/luast)**
-
-Build standalone Lua executables with cross-compilation support. Powered by Zig.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[lnko](https://github.com/luanvil/lnko)**
-
-Simple stow-like dotfile linker with conflict handling and orphan cleanup.
-
-</td>
-</tr>
-</table>
-
-## What is luanvil?
-
-Production-ready Lua libraries and tools that we actively use and maintain.
+Every library here is something we actively use in production. If we stop using it, we archive it clearly.
